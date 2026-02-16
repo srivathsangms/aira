@@ -160,7 +160,7 @@ def extract_text(file):
             text += page.extract_text() or ""
     return text
 
-API_KEY = "AIzaSyDYsO6ftZBwOYBTl6INWmlLx2Cyr7ls45s"
+API_KEY = "******************************"
 
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/3135/3135679.png", width=80)
