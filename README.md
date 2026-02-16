@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/dashboard.png" alt="AIRA Dashboard" width="400"/>
+      <img src="https://github.com/srivathsangms/aira/blob/main/aira_ss1.jpeg" alt="AIRA Dashboard" width="400"/>
       <br>
       <i>Dashboard & Settings</i>
     </td>
