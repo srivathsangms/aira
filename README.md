@@ -2,8 +2,21 @@
 
 **AIRA** (Artificial Intelligence Resume Analyzer) is a powerful, modern web application designed to help job seekers optimize their resumes. Powered by Google's Gemini 2.5 Flash model, AIRA provides instant, detailed feedback, scoring, and sector identification to help you land your dream job.
 
-![AIRA Demo](https://via.placeholder.com/800x400?text=AIRA+Dashboard+Preview) 
-*(Replace with an actual screenshot of your app)*
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/dashboard.png" alt="AIRA Dashboard" width="400"/>
+      <br>
+      <i>Dashboard & Settings</i>
+    </td>
+    <td align="center">
+      <img src="assets/analysis.png" alt="Analysis Results" width="400"/>
+      <br>
+      <i>Analysis Results</i>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Features
 
