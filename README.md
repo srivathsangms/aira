@@ -11,7 +11,7 @@
       <i>Dashboard & Settings</i>
     </td>
     <td align="center">
-      <img src="assets/analysis.png" alt="Analysis Results" width="400"/>
+      <img src="https://github.com/srivathsangms/aira/blob/main/aira_ss2.jpeg" alt="Analysis Results" width="400"/>
       <br>
       <i>Analysis Results</i>
     </td>
